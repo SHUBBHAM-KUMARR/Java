@@ -1,0 +1,6 @@
+like every other langiage java also has its own syntax
+
+--file naming convention
+file naming in java starting and import part of it . In java the file should named after its public class and vice-versa.
+
+--

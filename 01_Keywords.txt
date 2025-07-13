@@ -1,0 +1,86 @@
+java key words
+
+Access modifiers
+| Keyword     | Description                            |
+| ----------- | -------------------------------------- |
+| `public`    | Accessible from anywhere               |
+| `private`   | Accessible only within the class       |
+| `protected` | Accessible within package and subclass |
+--------------------------------------------------------
+
+class/interface/enum/record declaration
+
+| Keyword     | Description                                 |
+| ----------- | ------------------------------------------- |
+| `class`     | Declares a class                            |
+| `interface` | Declares an interface                       |
+| `enum`      | Declares an enum type                       |
+| `record`    | Declares an immutable data class (Java 14+) |
+-------------------------------------------------------------
+
+primitive datatypes
+
+| Keyword   | Description              |
+| --------- | ------------------------ |
+| `byte`    | 8-bit integer            |
+| `short`   | 16-bit integer           |
+| `int`     | 32-bit integer           |
+| `long`    | 64-bit integer           |
+| `float`   | 32-bit decimal number    |
+| `double`  | 64-bit decimal number    |
+| `char`    | 16-bit Unicode character |
+| `boolean` | true or false            |
+ --------------------------------------
+
+ control flow
+
+ | Keyword    | Description                                      |
+| ---------- | ------------------------------------------------ |
+| `if`       | Conditional branch                               |
+| `else`     | Alternative branch                               |
+| `switch`   | Multi-branch selection                           |
+| `case`     | Defines a branch in switch                       |
+| `default`  | Fallback branch in switch                        |
+| `while`    | Loop with condition check first                  |
+| `do`       | Loop with condition check after                  |
+| `for`      | General purpose loop                             |
+| `break`    | Exit loop or switch                              |
+| `continue` | Skip to next loop iteration                      |
+| `return`   | Exit from a method and optionally return a value |
+| `yield`    | Used in switch expression (Java 13+)             |
+ ----------------------------------------------------------------
+
+ oops keywords
+
+ | Keyword      | Description                  |
+| ------------ | ---------------------------- |
+| `new`        | Creates a new object         |
+| `this`       | Refers to the current object |
+| `super`      | Refers to the parent class   |
+| `extends`    | Inherits a class             |
+| `implements` | Implements an interface      |
+| `instanceof` | Checks object type           |
+-----------------------------------------------
+
+exception handling
+
+| Keyword   | Description                              |
+| --------- | ---------------------------------------- |
+| `try`     | Start of exception block                 |
+| `catch`   | Handle an exception                      |
+| `finally` | Always executes after try/catch          |
+| `throw`   | Throw an exception                       |
+| `throws`  | Declares an exception a method may throw |
+
+others
+
+| Keyword          | Description                                               |
+| ---------------- | --------------------------------------------------------- |
+| `void`           | No return type                                            |
+| `package`        | Defines a namespace                                       |
+| `import`         | Includes external classes                                 |
+| `null`           | Special literal (not technically a keyword, but reserved) |
+| `true` / `false` | Boolean literals                                          |
+| `assert`         | Debug-time validation                                     |
+ Total:
+67 Java keywords including true, false, null, and reserved words.
