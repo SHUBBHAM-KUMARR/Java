@@ -1,0 +1,8 @@
+java is a statically typed language here we have to declare the type of data before its execution.Like JavaScript , Java doesnot recognized the type of dat whether its an integer ,float ,string,boolean and others
+
+--syntax
+type variableName = value;
+example
+int x = 5; // integer
+string name = "shubham"//stirng
+ bool x = true ;//boolean

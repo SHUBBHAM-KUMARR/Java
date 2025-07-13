@@ -1,0 +1,6 @@
+what is java?
+Java is an high level , general purpose, object oriented programming langiage.
+easy&used to develop any kind of program
+very popular: it has a huge community for getting help
+--can be used in android develpment
+--Java is a c based language it means that Java's syntax, structure, and some core programming concepts are heavily influenced by the C programming language, and to some extent by C++ as well.
